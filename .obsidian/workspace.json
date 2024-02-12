@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c45037af1a56ada4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e63849e713fe2396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a164dfd25aad93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yale University-心理学导论/005 - Notes/002 - 这是你的大脑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f21ce3e53c59b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "60aea484e1681c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a3d2188056e325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375324630eae0e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "吾爱破解",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "007f011daa42c33e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4d6a9e95ec486d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0c3a719310a159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dae073d4bc510d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Yale University-心理学导论/005 - Notes/002 - 这是你的大脑.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b553b3f9e5dd46b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Yale University-心理学导论/005 - Notes/002 - 这是你的大脑.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2527538911b6fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Yale University-心理学导论/005 - Notes/002 - 这是你的大脑.md"
+              }
+            }
+          },
+          {
+            "id": "77a654d0abd9a228",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d02e6643b7de02de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "74a96bd52bf1b724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b248fe9cf6c68a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "33a164dfd25aad93",
+  "lastOpenFiles": [
+    "Yale University-心理学导论/005 - Notes/001 - 心理学导论.md",
+    "科普性知识/杂记.md",
+    "Yale University-心理学导论/005 - Notes/002 - 这是你的大脑.md",
+    "科普性知识",
+    "新建文件夹",
+    "000 - 纲要.md",
+    "Yale University-心理学导论/004 - Materials/心理学第五版（彼得格雷）.pdf",
+    "Yale University-心理学导论/004 - Materials/诺顿读本（全）Norton Reader.pdf",
+    "902 - Resource/001 - Major/007 - 工具类.md",
+    "902 - Resource/001 - Major/006 - 复习类.md",
+    "902 - Resource/001 - Major/005 - 网安类.md",
+    "101 - Private/001 - Life/001 - 大学生存指南.md",
+    "101 - Private/001 - Life/002 - Account.md",
+    "101 - Private/001 - Life/003 - Process.md",
+    "007 - Math/001 - Modeling/001 - Lab/001 - 实验一：Python的基础语法.md",
+    "101 - Private/001 - Life/005 - Other.md",
+    "101 - Private/001 - Life/004 - 防诈骗短信.md",
+    "007 - Math/001 - Modeling/001 - Lab/未命名.md",
+    "101 - Private/001 - Life/001 - Diary/001 - Dinary.md",
+    "007 - Math/bv_cvxslides_original.pdf",
+    "007 - Math/bv_cvxslides.pdf",
+    "007 - Math/bv_cvxbook.pdf",
+    "007 - Math/001 - Modeling/001 - Lab/002 - 实验二：Python规划求解.md",
+    "007 - Math/001 - Modeling/001 - Optimization.md",
+    "007 - Math/bv_cvxbook.pdf.crdownload",
+    "007 - Math/001 - Modeling/007 - 智能算法.md",
+    "003 - Data Structure/Lab/实验8 图的操作.md",
+    "003 - Data Structure/Lab/实验5 用栈来实现简单运算（有括号）.md",
+    "003 - Data Structure/Lab/实验4 在线等价类（并查集）.md",
+    "902 - Resource/002 - Attached/001 - 沙拉查词.md",
+    "902 - Resource/002 - Attached/014 - LaTeX.md",
+    "007 - Math/001 - Modeling/001 - Lab",
+    "007 - Math/001 - Modeling/008 - 小组群体思维方法.md",
+    "007 - Math/001 - Modeling/000 - 基本知识.md",
+    "007 - Math/001 - Modeling/006 - 优化与控制.md",
+    "901 - Files/《崩坏：星穹铁道》模拟器.pdf",
+    "未命名.canvas",
+    "placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg",
+    "markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
+    "902 - Photo/Pasted image 20240118161645.png",
+    "902 - Photo/Pasted image 20240120234519.png",
+    "902 - Photo/Pasted image 20240118162630.png",
+    "902 - Photo/Pasted image 20240118161354.png",
+    "902 - Photo/Pasted image 20240118161109.png",
+    "902 - Photo/Pasted image 20240118160144.png",
+    "902 - Photo/Pasted image 20240118160935.png",
+    "902 - Photo/Pasted image 20240118155632.png",
+    "002 - Computer/002 - Computer Organization/简答题.canvas",
+    "post/002 - Computer/002 - Computer Organization/简答题.canvas"
+  ]
+}
